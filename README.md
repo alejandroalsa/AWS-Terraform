@@ -11,17 +11,17 @@ Este repositorio tiene como objetivo la recopilación y creación de distintos a
 La documentación de todos los archivos se encuentra en cado uno de los archivos '.yml' definidos a modo de comentarios.
 ## Funciones desarrolladas
 
-- [Creación de una instancia EC2](#)
+- [Creación de una instancia EC2](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Instancia-EC2)
 
-- [Creación de un grupo de seguridad & instancia EC2](#)
+- [Creación de un grupo de seguridad & instancia EC2](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Grupo%20de%20seguridad%20%2B%20instancia-EC2)
 
-- [Creación de un grupo de seguridad + instancia EC2 + IP elástica](#)
+- [Creación de un grupo de seguridad + instancia EC2 + IP elástica](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Grupo%20de%20seguridad%20%2B%20instancia-EC2%20%2B%20IP%20el%C3%A1stica)
 
-- [Ejecución de comandos automáticamente al crear una instancia EC2](#)
+- [Ejecución de comandos automáticamente al crear una instancia EC2](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Ejecuci%C3%B3n%20de%20comandos)
 
-- [Creación de un grupo de seguridad + instancia EC2 + IP elástica con variables](#)
+- [Creación de un grupo de seguridad + instancia EC2 + IP elástica con variables](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Uso%20de%20variables)
 
-- [Creación de un grupo de seguridad + instancia EC2 + IP elástica junto con información de salida](#)
+- [Creación de un grupo de seguridad + instancia EC2 + IP elástica junto con información de salida](https://github.com/alejandroalsa/AWS-Terraform/tree/master/Informaci%C3%B3n%20de%20salida)
 
 
 ## Más información
@@ -30,7 +30,7 @@ Puede encontrar más información acerca de terraform y su uso en: [alejandroals
 ## Descarga
 
 ```bash
-  git clone https://diwes.es.git
+  git clone https://github.com/alejandroalsa/AWS-Terraform.git
 ```
     
 ## Desarrollador
